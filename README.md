@@ -2,4 +2,6 @@
 
 Integration with geo home smart meters
 
-Copied from mmillmor as didn't import into HACS
+Modified to allow "Custom Repository" import into HACS
+
+This is my first attemt at anything to do with Home Assistant! I'm learning...

@@ -1,0 +1,6 @@
+{
+  "name": "geo_home",
+  "persistent_directory": "keep",
+  "zip_release": true,
+  "filename": "test.zip"
+}

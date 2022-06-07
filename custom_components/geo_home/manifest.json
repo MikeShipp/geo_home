@@ -1,9 +1,11 @@
 {
   "domain": "geo_home",
   "name": "Geo Home",
+  "version": "0.0.0",
   "documentation": "https://github.com/MikeShipp/geo_home",
   "dependencies": [],
+  "config_flow": true,
   "codeowners": ["@MikeShipp"],
   "requirements": [],
-  "version": "0.0.0"
+  "iot_class": "cloud_polling"
 }

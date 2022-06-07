@@ -3,17 +3,12 @@ from __future__ import annotations
 
 import logging
 import time
-
 import requests
+
 from requests.auth import HTTPBasicAuth
 
-from homeassistant.components.climate.const import (
-    CURRENT_HVAC_HEAT,
-    CURRENT_HVAC_OFF,
-    HVAC_MODE_HEAT,
-    HVAC_MODE_OFF,
-)
 from homeassistant.core import HomeAssistant
+
 from .const import (
     BASE_URL,
     DEVICE_DETAUILS_URL,

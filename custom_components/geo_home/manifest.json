@@ -1,6 +1,7 @@
 {
   "domain": "geo_home",
   "name": "Geo Home",
+  "version": "1.0.0"'
   "documentation": "https://github.com/MikeShipp/geo_home",
   "dependencies": [],
   "codeowners": ["@MikeShipp"],

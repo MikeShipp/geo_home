@@ -4,6 +4,5 @@
   "documentation": "https://github.com/MikeShipp/geo_home",
   "dependencies": [],
   "codeowners": ["@MikeShipp"],
-  "requirements": [],
-  "homeassistant": "0.95.0"
+  "requirements": []
 }

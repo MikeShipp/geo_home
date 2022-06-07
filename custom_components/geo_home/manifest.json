@@ -4,5 +4,6 @@
   "documentation": "https://github.com/MikeShipp/geo_home",
   "dependencies": [],
   "codeowners": ["@MikeShipp"],
-  "requirements": []
+  "requirements": [],
+  "version": "0.0.0"
 }
